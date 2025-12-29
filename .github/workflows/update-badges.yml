@@ -15,7 +15,7 @@ jobs:
         run: |
           TODAY=$(date +'%Y-%m-%d')
           sed -i "s/cachebust=[0-9-]\+/cachebust=$TODAY/g" README.md
-
+          
       - name: Commit and push
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
