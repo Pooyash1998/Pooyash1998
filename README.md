@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Header GIF" src="Matrix_rain.gif" width="100%" height="300" />  
+  <img alt="Header GIF" src="Matrix_rain.gif" width="100%" height="250" />  
   
   ![Typing SVG](https://readme-typing-svg.demolab.com?font=Anonymous+Pro&weight=800&size=24&pause=1000&color=008F11FB&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hello%2C+it's+Pouya)
 </div>
