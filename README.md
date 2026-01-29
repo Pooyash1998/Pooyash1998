@@ -51,11 +51,11 @@ Welcome to my GitHub page. I'm a passionate Computer Science graduate from RWTH 
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=pooyash1998&label=Profile%20Views&color=6366f1&style=for-the-badge&logo=visual-studio-code&logoColor=white&cachebust=2026-01-28" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=pooyash1998&label=Profile%20Views&color=6366f1&style=for-the-badge&logo=visual-studio-code&logoColor=white&cachebust=2026-01-29" alt="Profile Views" />
   <a href="https://github.com/pooyash1998?tab=followers">
-    <img src="https://img.shields.io/github/followers/pooyash1998?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=22c55e&cachebust=2026-01-28" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/pooyash1998?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=22c55e&cachebust=2026-01-29" alt="GitHub Followers" />
   </a>
-  <img src="https://img.shields.io/github/stars/pooyash1998?label=Total%20Stars&style=for-the-badge&logo=github&logoColor=white&color=f59e0b&cachebust=2026-01-28" alt="Total Stars" />
+  <img src="https://img.shields.io/github/stars/pooyash1998?label=Total%20Stars&style=for-the-badge&logo=github&logoColor=white&color=f59e0b&cachebust=2026-01-29" alt="Total Stars" />
 </div>
 
 </div>
